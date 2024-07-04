@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/almirantebarroso/static/css/main.daf14acc.css",
-    "main.js": "/almirantebarroso/static/js/main.f31697f7.js",
+    "main.js": "/almirantebarroso/static/js/main.4afd27bd.js",
     "static/js/453.ec0683c7.chunk.js": "/almirantebarroso/static/js/453.ec0683c7.chunk.js",
     "static/media/gamba2.jpg": "/almirantebarroso/static/media/gamba2.6c80b133adb3ddfefa95.jpg",
     "index.html": "/almirantebarroso/index.html",
     "main.daf14acc.css.map": "/almirantebarroso/static/css/main.daf14acc.css.map",
-    "main.f31697f7.js.map": "/almirantebarroso/static/js/main.f31697f7.js.map",
+    "main.4afd27bd.js.map": "/almirantebarroso/static/js/main.4afd27bd.js.map",
     "453.ec0683c7.chunk.js.map": "/almirantebarroso/static/js/453.ec0683c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.daf14acc.css",
-    "static/js/main.f31697f7.js"
+    "static/js/main.4afd27bd.js"
   ]
 }
